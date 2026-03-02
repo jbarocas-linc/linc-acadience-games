@@ -1,0 +1,490 @@
+{
+  "version": "2026-02-27",
+  "recommendations": [
+    {
+      "grade": "K",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Rhyme",
+      "games": [
+        "rhyming-match",
+        "rhyming-memory"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/rhyme--copy-of-bilingual-rhyming-instructions.pdf",
+        "cardsPdf": "/pdfs/rhyme--copy-of-rhyming-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "Syllable",
+      "games": [
+        "syllable-match"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/syllable--copy-of-bilingual-syllable-instructions.pdf",
+        "cardsPdf": "/pdfs/syllable--copy-of-syllable-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Sound Isolation",
+      "games": [
+        "fly-swat"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-isolation--copy-of-bilingual-first-sound-instructions.pdf",
+        "cardsPdf": "/pdfs/sound-isolation--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Sound Isolation",
+      "games": [
+        "fly-swat"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-isolation--copy-of-bilingual-first-sound-instructions.pdf",
+        "cardsPdf": "/pdfs/sound-isolation--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Sound Blending",
+      "games": [
+        "sound-blender"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-blending--copy-of-phoneme-blending-games-english.pdf",
+        "cardsPdf": "/pdfs/sound-blending--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "Sound Blending",
+      "games": [
+        "sound-blender"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-blending--copy-of-phoneme-blending-games-english.pdf",
+        "cardsPdf": "/pdfs/sound-blending--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Sound Segmenting",
+      "games": [
+        "fly-swat"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-segmenting--sound-segmenting-games-english.pdf",
+        "cardsPdf": "/pdfs/sound-segmenting--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Sound Segmenting",
+      "games": [
+        "fly-swat"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-segmenting--sound-segmenting-games-english.pdf",
+        "cardsPdf": "/pdfs/sound-segmenting--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Sound Segmenting",
+      "games": [
+        "fly-swat"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/sound-segmenting--sound-segmenting-games-english.pdf",
+        "cardsPdf": "/pdfs/sound-segmenting--copy-of-sound-cards---eng.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Letter-Sound Knowledge",
+      "games": [
+        "letter-sound-match"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+        "cardsPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "Letter-Sound Knowledge",
+      "games": [
+        "letter-sound-match"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+        "cardsPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "Letter-Sound Knowledge",
+      "games": [
+        "letter-sound-match"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+        "cardsPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Letter-Sound Knowledge",
+      "games": [
+        "letter-sound-match"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+        "cardsPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Word Building",
+      "games": [
+        "word-build-race"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+        "cardsPdf": "/pdfs/word-building--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Word Building",
+      "games": [
+        "word-build-race"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+        "cardsPdf": "/pdfs/word-building--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "Word Building",
+      "games": [
+        "word-build-race"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+        "cardsPdf": "/pdfs/word-building--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "red",
+      "recommendedSkillArea": "Word Building",
+      "games": [
+        "word-build-race"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+        "cardsPdf": "/pdfs/word-building--copy-of-letter-cards---english.pdf"
+      }
+    },
+    {
+      "grade": "K",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "High Frequency Words",
+      "games": [
+        "sight-word-snap"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+        "cardsPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "BOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "High Frequency Words",
+      "games": [
+        "sight-word-snap"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+        "cardsPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "High Frequency Words",
+      "games": [
+        "sight-word-snap"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+        "cardsPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "yellow",
+      "recommendedSkillArea": "High Frequency Words",
+      "games": [
+        "sight-word-snap"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+        "cardsPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "MOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Fluency",
+      "games": [
+        "speed-read-sprint"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/fluency--fluency-activities---english.pdf",
+        "cardsPdf": "/pdfs/fluency--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Fluency",
+      "games": [
+        "speed-read-sprint"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": "/pdfs/fluency--fluency-activities---english.pdf",
+        "cardsPdf": "/pdfs/fluency--copy-of-high-frequency-word-cards---english-only.pdf"
+      }
+    },
+    {
+      "grade": "1",
+      "season": "EOY",
+      "measure": "composite",
+      "band": "green",
+      "recommendedSkillArea": "Comprehension",
+      "games": [
+        "story-question-quest"
+      ],
+      "resources": {
+        "video": null,
+        "instructionPdf": null,
+        "cardsPdf": null
+      }
+    }
+  ],
+  "conceptMeta": {
+    "Rhyme": {
+      "concept": "Rhyme",
+      "explainer": "Rhyme Explainer",
+      "video": null,
+      "instructionPdf": "/pdfs/rhyme--copy-of-bilingual-rhyming-instructions.pdf",
+      "cardsPdf": "/pdfs/rhyme--copy-of-rhyming-cards---english.pdf",
+      "games": [
+        "rhyming-match",
+        "rhyming-memory"
+      ]
+    },
+    "Syllable": {
+      "concept": "Syllable",
+      "explainer": "Syllable Explainer",
+      "video": null,
+      "instructionPdf": "/pdfs/syllable--copy-of-bilingual-syllable-instructions.pdf",
+      "cardsPdf": "/pdfs/syllable--copy-of-syllable-cards---english.pdf",
+      "games": [
+        "syllable-match"
+      ]
+    },
+    "Sound Isolation": {
+      "concept": "Sound Isolation",
+      "explainer": "Sound Isolation Explainer",
+      "video": null,
+      "instructionPdf": "/pdfs/sound-isolation--copy-of-bilingual-first-sound-instructions.pdf",
+      "cardsPdf": "/pdfs/sound-isolation--copy-of-sound-cards---eng.pdf",
+      "games": [
+        "fly-swat"
+      ]
+    },
+    "Sound Blending": {
+      "concept": "Sound Blending",
+      "explainer": "Sound Blending Explainer",
+      "video": null,
+      "instructionPdf": "/pdfs/sound-blending--copy-of-phoneme-blending-games-english.pdf",
+      "cardsPdf": "/pdfs/sound-blending--copy-of-sound-cards---eng.pdf",
+      "games": [
+        "sound-blender"
+      ]
+    },
+    "Sound Segmenting": {
+      "concept": "Sound Segmenting",
+      "explainer": "Sound Segmenting Explainer",
+      "video": null,
+      "instructionPdf": "/pdfs/sound-segmenting--sound-segmenting-games-english.pdf",
+      "cardsPdf": "/pdfs/sound-segmenting--copy-of-sound-cards---eng.pdf",
+      "games": [
+        "fly-swat"
+      ]
+    },
+    "Letter-Sound Knowledge": {
+      "concept": "Letter-Sound Knowledge",
+      "explainer": "Letter Fly Swat",
+      "video": null,
+      "instructionPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+      "cardsPdf": "/pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf",
+      "games": [
+        "letter-sound-match"
+      ]
+    },
+    "High Frequency Words": {
+      "concept": "High Frequency Words",
+      "explainer": "Word Fly Swat",
+      "video": null,
+      "instructionPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+      "cardsPdf": "/pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf",
+      "games": [
+        "sight-word-snap"
+      ]
+    },
+    "Fluency": {
+      "concept": "Fluency",
+      "explainer": null,
+      "video": null,
+      "instructionPdf": "/pdfs/fluency--fluency-activities---english.pdf",
+      "cardsPdf": "/pdfs/fluency--copy-of-high-frequency-word-cards---english-only.pdf",
+      "games": [
+        "speed-read-sprint"
+      ]
+    },
+    "Comprehension": {
+      "concept": "Comprehension",
+      "explainer": null,
+      "video": null,
+      "instructionPdf": null,
+      "cardsPdf": null,
+      "games": [
+        "story-question-quest"
+      ]
+    },
+    "Word Building": {
+      "concept": "Word Building",
+      "explainer": null,
+      "video": null,
+      "instructionPdf": "/pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+      "cardsPdf": "/pdfs/word-building--copy-of-letter-cards---english.pdf",
+      "games": [
+        "word-build-race"
+      ]
+    }
+  },
+  "missing": [
+    "No mapping row for K BOY blue",
+    "No mapping row for K MOY blue",
+    "No mapping row for K EOY blue",
+    "No mapping row for 1 BOY blue",
+    "No mapping row for 1 MOY blue",
+    "No mapping row for 1 EOY blue",
+    "No mapping row for 2 BOY red",
+    "No mapping row for 2 BOY yellow",
+    "No mapping row for 2 BOY green",
+    "No mapping row for 2 BOY blue",
+    "No mapping row for 2 MOY red",
+    "No mapping row for 2 MOY yellow",
+    "No mapping row for 2 MOY green",
+    "No mapping row for 2 MOY blue",
+    "No mapping row for 2 EOY red",
+    "No mapping row for 2 EOY yellow",
+    "No mapping row for 2 EOY green",
+    "No mapping row for 2 EOY blue",
+    "Missing instruction PDF for Comprehension (1 EOY green)"
+  ]
+}

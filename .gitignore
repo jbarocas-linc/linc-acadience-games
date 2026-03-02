@@ -1,0 +1,22 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+public/videos/
+
+# source/reference assets not needed in published repo
+Acadience App/
+brand-kit/
+reference-screenshots/
+live-export/
+audit-output/
+tmp/
+
+# local/system files
+.DS_Store
+*.log
+
+# local env
+.env
+.env.local
+.env.*.local

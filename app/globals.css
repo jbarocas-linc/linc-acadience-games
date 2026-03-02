@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Tebal';
+  src: url('/fonts/the-tebal-demo.regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MoreSugar';
+  src: url('/fonts/MoreSugar-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+:root {
+  --bg: #f5f8ff;
+  --card: #ffffff;
+  --text: #102445;
+  --muted: #4f617c;
+  --surfaceBlue: #12306b;
+  --surfaceGreen: #1ab34b;
+  --surfaceYellow: #ffe77a;
+  --surfacePink: #f6bfd6;
+  --surfaceSky: #cfeeff;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background:
+    radial-gradient(circle at 8% 2%, #dff0ff 0%, #eef6ff 28%, #f5f8ff 60%),
+    linear-gradient(180deg, #f7fbff 0%, #f5f8ff 100%);
+  color: var(--text);
+}
+
+* { box-sizing: border-box; }
+
+.container-shell {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0.8rem 1rem 2rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid #d2def3;
+  border-radius: 1.2rem;
+  box-shadow: 0 10px 24px rgba(18, 48, 107, 0.09);
+}
+
+.linc-topbar {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: blur(4px);
+  background: rgba(245, 248, 255, 0.94);
+  border-bottom: 1px solid #d9e4f8;
+}
+
+.linc-pattern {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.linc-pattern::before {
+  content: '';
+  position: absolute;
+  right: -50px;
+  top: 60px;
+  width: 180px;
+  height: 180px;
+  border-radius: 999px;
+  background: var(--surfacePink);
+  opacity: 0.55;
+}
+
+.linc-pattern::after {
+  content: '';
+  position: absolute;
+  left: -40px;
+  bottom: 80px;
+  width: 160px;
+  height: 160px;
+  border-radius: 999px;
+  background: var(--surfaceSky);
+  opacity: 0.7;
+}
+
+.soft-pill {
+  border-radius: 999px;
+  border: 1px solid #d5e0f2;
+  background: #fff;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.72rem;
+  color: #334867;
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, #12306b 0%, #1d478f 58%, #1ab34b 100%);
+}

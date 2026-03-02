@@ -1,0 +1,191 @@
+[
+  {
+    "concept": "Comprehension",
+    "source": "Acadience App/Comprehension/Copy of QAR Tool.png",
+    "publicPath": "images/comprehension--copy-of-qar-tool.png",
+    "filename": "Copy of QAR Tool.png",
+    "ext": ".png"
+  },
+  {
+    "concept": "Fluency",
+    "source": "Acadience App/Fluency/Explainer Path to Fluency.png",
+    "publicPath": "images/fluency--explainer-path-to-fluency.png",
+    "filename": "Explainer Path to Fluency.png",
+    "ext": ".png"
+  },
+  {
+    "concept": "Fluency",
+    "source": "Acadience App/Fluency/Copy of High Frequency Word Cards - English Only.pdf",
+    "publicPath": "pdfs/fluency--copy-of-high-frequency-word-cards---english-only.pdf",
+    "filename": "Copy of High Frequency Word Cards - English Only.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Fluency",
+    "source": "Acadience App/Fluency/Fluency Activities - English.pdf",
+    "publicPath": "pdfs/fluency--fluency-activities---english.pdf",
+    "filename": "Fluency Activities - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Fluency",
+    "source": "Acadience App/Fluency/High Frequency Word Activity Instructions - English.pdf",
+    "publicPath": "pdfs/fluency--high-frequency-word-activity-instructions---english.pdf",
+    "filename": "High Frequency Word Activity Instructions - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Fluency",
+    "source": "Acadience App/Fluency/Explainer Fluency developmental timeline.png",
+    "publicPath": "images/fluency--explainer-fluency-developmental-timeline.png",
+    "filename": "Explainer Fluency developmental timeline.png",
+    "ext": ".png"
+  },
+  {
+    "concept": "High Frequency Words",
+    "source": "Acadience App/High Frequency Words/Copy of High Frequency Word Cards - English Only.pdf",
+    "publicPath": "pdfs/high-frequency-words--copy-of-high-frequency-word-cards---english-only.pdf",
+    "filename": "Copy of High Frequency Word Cards - English Only.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "High Frequency Words",
+    "source": "Acadience App/High Frequency Words/Copy of High Frequency Word Activity Instructions - English.pdf",
+    "publicPath": "pdfs/high-frequency-words--copy-of-high-frequency-word-activity-instructions---english.pdf",
+    "filename": "Copy of High Frequency Word Activity Instructions - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Letter-Sound Knowledge",
+    "source": "Acadience App/Letter-Sound Knowledge/Copy of Letter-Sound_Phonics Games (English).pdf",
+    "publicPath": "pdfs/letter-sound-knowledge--copy-of-letter-sound_phonics-games-english.pdf",
+    "filename": "Copy of Letter-Sound_Phonics Games (English).pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Letter-Sound Knowledge",
+    "source": "Acadience App/Letter-Sound Knowledge/Copy of Letter Cards - English.pdf",
+    "publicPath": "pdfs/letter-sound-knowledge--copy-of-letter-cards---english.pdf",
+    "filename": "Copy of Letter Cards - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Rhyme",
+    "source": "Acadience App/Rhyme/Copy of Rhyming Cards - English.pdf",
+    "publicPath": "pdfs/rhyme--copy-of-rhyming-cards---english.pdf",
+    "filename": "Copy of Rhyming Cards - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Rhyme",
+    "source": "Acadience App/Rhyme/Copy of Bilingual Rhyming Instructions.pdf",
+    "publicPath": "pdfs/rhyme--copy-of-bilingual-rhyming-instructions.pdf",
+    "filename": "Copy of Bilingual Rhyming Instructions.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Rhyme",
+    "source": "Acadience App/Rhyme/Rhyming Go Fish! (ENGLISH).mp4",
+    "publicPath": "videos/rhyme--rhyming-go-fish-english.mp4",
+    "filename": "Rhyming Go Fish! (ENGLISH).mp4",
+    "ext": ".mp4"
+  },
+  {
+    "concept": "Rhyme",
+    "source": "Acadience App/Rhyme/Time  to Rhyme + Rhyme Memory- ENGLISH.mp4",
+    "publicPath": "videos/rhyme--time-to-rhyme--rhyme-memory--english.mp4",
+    "filename": "Time  to Rhyme + Rhyme Memory- ENGLISH.mp4",
+    "ext": ".mp4"
+  },
+  {
+    "concept": "Sound Blending",
+    "source": "Acadience App/Sound Blending/Copy of Sound Cards - Eng.pdf",
+    "publicPath": "pdfs/sound-blending--copy-of-sound-cards---eng.pdf",
+    "filename": "Copy of Sound Cards - Eng.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Sound Blending",
+    "source": "Acadience App/Sound Blending/Fly Swat Blending Sounds (ENGLISH) .mp4",
+    "publicPath": "videos/sound-blending--fly-swat-blending-sounds-english-.mp4",
+    "filename": "Fly Swat Blending Sounds (ENGLISH) .mp4",
+    "ext": ".mp4"
+  },
+  {
+    "concept": "Sound Blending",
+    "source": "Acadience App/Sound Blending/Copy of Phoneme Blending Games (English).pdf",
+    "publicPath": "pdfs/sound-blending--copy-of-phoneme-blending-games-english.pdf",
+    "filename": "Copy of Phoneme Blending Games (English).pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Sound Isolation",
+    "source": "Acadience App/Sound Isolation/Copy of Sound Cards - Eng.pdf",
+    "publicPath": "pdfs/sound-isolation--copy-of-sound-cards---eng.pdf",
+    "filename": "Copy of Sound Cards - Eng.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Sound Isolation",
+    "source": "Acadience App/Sound Isolation/Fly Swat First Sound (ENGLISH) .mp4",
+    "publicPath": "videos/sound-isolation--fly-swat-first-sound-english-.mp4",
+    "filename": "Fly Swat First Sound (ENGLISH) .mp4",
+    "ext": ".mp4"
+  },
+  {
+    "concept": "Sound Isolation",
+    "source": "Acadience App/Sound Isolation/Copy of Bilingual First Sound Instructions.pdf",
+    "publicPath": "pdfs/sound-isolation--copy-of-bilingual-first-sound-instructions.pdf",
+    "filename": "Copy of Bilingual First Sound Instructions.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Sound Segmenting",
+    "source": "Acadience App/Sound Segmenting/Sound Segmenting Games (English).pdf",
+    "publicPath": "pdfs/sound-segmenting--sound-segmenting-games-english.pdf",
+    "filename": "Sound Segmenting Games (English).pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Sound Segmenting",
+    "source": "Acadience App/Sound Segmenting/Copy of Sound Cards - Eng.pdf",
+    "publicPath": "pdfs/sound-segmenting--copy-of-sound-cards---eng.pdf",
+    "filename": "Copy of Sound Cards - Eng.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Syllable",
+    "source": "Acadience App/Syllable/Copy of Syllable Cards - English.pdf",
+    "publicPath": "pdfs/syllable--copy-of-syllable-cards---english.pdf",
+    "filename": "Copy of Syllable Cards - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Syllable",
+    "source": "Acadience App/Syllable/Copy of Bilingual Syllable Instructions.pdf",
+    "publicPath": "pdfs/syllable--copy-of-bilingual-syllable-instructions.pdf",
+    "filename": "Copy of Bilingual Syllable Instructions.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Syllable",
+    "source": "Acadience App/Syllable/Copy of 3_GAME ONLY Syllable Slide + Climb (ENGLISH).mp4",
+    "publicPath": "videos/syllable--copy-of-3_game-only-syllable-slide--climb-english.mp4",
+    "filename": "Copy of 3_GAME ONLY Syllable Slide + Climb (ENGLISH).mp4",
+    "ext": ".mp4"
+  },
+  {
+    "concept": "Word Building",
+    "source": "Acadience App/Word Building/Copy of Letter Cards - English.pdf",
+    "publicPath": "pdfs/word-building--copy-of-letter-cards---english.pdf",
+    "filename": "Copy of Letter Cards - English.pdf",
+    "ext": ".pdf"
+  },
+  {
+    "concept": "Word Building",
+    "source": "Acadience App/Word Building/Copy of Build-a-Word_Arma la palabra.pdf",
+    "publicPath": "pdfs/word-building--copy-of-build-a-word_arma-la-palabra.pdf",
+    "filename": "Copy of Build-a-Word_Arma la palabra.pdf",
+    "ext": ".pdf"
+  }
+]
